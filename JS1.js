@@ -26,3 +26,10 @@ console.log(c, typeof c)
 d = 7
 e = String(d)
 console.log(e, typeof e)
+
+//Operators
+
+//Almost same as python but the logical operators are different
+// and --> &&
+// or --> ||
+// not --> !
